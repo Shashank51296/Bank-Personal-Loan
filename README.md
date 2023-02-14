@@ -5,30 +5,30 @@ The dataset contains both customer information and customer response to the last
 
 <b>ID</b>: ID of the customer
 
-Age: Age of the customer in completed years
+<b>Age</b>: Age of the customer in completed years
 
-Experience: Amount of work experience in years
+<b>Experience</b>: Amount of work experience in years
 
-Income: Amount of annual income (in thousands)
+<b>Income</b>: Amount of annual income (in thousands)
 
-Zipcode: Postal code in which the client lives
+<b>Zipcode</b>: Postal code in which the client lives
 
-Family: Number of family members
+<b>Family</b>: Number of family members
 
-CCAvg: Average monthly spending with the credit card (in thousands)
+<b>CCAvg</b>: Average monthly spending with the credit card (in thousands)
 
-Education: Education level (1: bachelor's degree, 2: master's degree, 3: advanced/professional degree)
+<b>Education</b>: Education level (1: bachelor's degree, 2: master's degree, 3: advanced/professional degree)
 
-Mortgage: Value of home mortgage, if any (in thousands)
+<b>Mortgage</b>: Value of home mortgage, if any (in thousands)
 
-Securities Account: Does the customer have a securities account with the bank?
+<b>Securities Account</b>: Does the customer have a securities account with the bank?
 
-CD Account: Does the customer have a certificate of deposit account (CD) with the bank?
+<b>CD Account</b>: Does the customer have a certificate of deposit account (CD) with the bank?
 
-Online: Does the customer use the internet banking facilities?
+<b>Online</b>: Does the customer use the internet banking facilities?
 
-CreditCard: Does the customer use a credit card issued by the bank?
+<b>CreditCard</b>: Does the customer use a credit card issued by the bank?
 
-Personal Loan: Did this customer accept the personal loan offered in the last campaign? (Target Variable)
+<b>Personal Loan</b>: Did this customer accept the personal loan offered in the last campaign? (Target Variable)
 
-Objective: To use different classification models to predict the likelihood that a customer will buy a personal loan.
+<b>Objective</b>: To use different classification models to predict the likelihood that a customer will buy a personal loan.
