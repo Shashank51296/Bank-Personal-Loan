@@ -3,7 +3,7 @@ This project addresses a classification issue concerning personal loans in the T
 
 The dataset contains both customer information and customer response to the last personal loan campaign:
 
-ID: ID of the customer
+<b>ID</b>: ID of the customer
 
 Age: Age of the customer in completed years
 
